@@ -1,0 +1,5 @@
+.vscode/
+/target/
+/aquagateclient/target/
+/aquagateclient/HELP.md
+/node_modules
